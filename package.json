@@ -1,0 +1,15 @@
+{
+  "name": "dbuploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dropbox": "^2.2.1",
+    "easy-zip": "0.0.4"
+  }
+}
